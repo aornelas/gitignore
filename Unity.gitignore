@@ -39,3 +39,6 @@ sysinfo.txt
 
 # JetBrains Rider Plugin
 Assets/Plugins/Editor/JetBrains*
+
+# GitHub for Unity Plugin
+Assets/Plugins/GitHub*
