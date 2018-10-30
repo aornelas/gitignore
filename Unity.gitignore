@@ -36,3 +36,6 @@ sysinfo.txt
 *.apk
 *.mpk
 *.unitypackage
+
+# JetBrains Rider Plugin
+Assets/Plugins/Editor/JetBrains*
