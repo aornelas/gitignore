@@ -42,3 +42,6 @@ Assets/Plugins/Editor/JetBrains*
 
 # GitHub for Unity Plugin
 Assets/Plugins/GitHub*
+
+# Mac OS
+.DS_Store
